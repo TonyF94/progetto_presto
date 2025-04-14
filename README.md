@@ -8,4 +8,5 @@
 6. Refactoring del front-end con crop delle immagini
 7. Analisi automatica tramite Al del testo degli annunci
 8. Aggiunta di immagini per coprire i volti delle persone presenti nelle foto caricate
-9. Aggiunta di un watermark personalizzato 10. Ricerca full-text degli annunci
+9. Aggiunta di un watermark personalizzato
+10. 10. Ricerca full-text degli annunci
